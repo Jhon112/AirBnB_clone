@@ -20,6 +20,14 @@ section.places {
     text-align: left;
 }
 
+.articles {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
 .places article h2 {
     font-size: 30px;
     margin-top: 0;
@@ -78,5 +86,5 @@ div.information {
 }
 
 .description {
-    padding: 10px 0px;
+    padding: 5px 0px;
 }
