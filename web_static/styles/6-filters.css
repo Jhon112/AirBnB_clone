@@ -42,6 +42,7 @@ ul.popover {
     border: 1px solid #dddddd;
     border-radius: 4px;
     width: 100%;
+    background-color: #FAFAFA
 }
 
 .locations .popover h2{
