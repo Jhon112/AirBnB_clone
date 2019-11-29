@@ -42,7 +42,9 @@ ul.popover {
     border: 1px solid #dddddd;
     border-radius: 4px;
     width: 100%;
-    background-color: #FAFAFA
+    background-color: #FAFAFA;
+    z-index: 1;
+
 }
 
 .locations .popover h2{

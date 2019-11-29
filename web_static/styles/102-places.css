@@ -18,6 +18,8 @@ section.places {
     display: inline-block;
     position: relative;
     text-align: left;
+    z-index: -1;
+
 }
 
 .articles {
